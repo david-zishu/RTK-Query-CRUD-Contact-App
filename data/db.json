@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "John Smith",
+      "email": "john@example.com",
+      "contact": "9632587418",
+      "imgSrc": "https://xsgames.co/randomusers/avatar.php?g=male",
+      "id": 2
+    },
+    {
+      "name": "Maria",
+      "email": "maria@gmail.com",
+      "contact": "7048366680",
+      "imgSrc": "https://xsgames.co/randomusers/avatar.php?g=female",
+      "id": 3
+    },
+    {
+      "name": "Mike Tyson",
+      "email": "mike63@yahoo.com",
+      "contact": "7412589638",
+      "imgSrc": "https://xsgames.co/randomusers/assets/avatars/male/50.jpg",
+      "id": 4
+    },
+    {
+      "name": "Neha Jaisawal",
+      "email": "neha_jaisawal96@gmail.com",
+      "contact": "9685746358",
+      "imgSrc": "https://xsgames.co/randomusers/assets/avatars/female/69.jpg",
+      "id": 5
+    }
+  ]
+}
